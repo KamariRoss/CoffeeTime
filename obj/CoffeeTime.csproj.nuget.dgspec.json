@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kamariross/CoffeeTime/CoffeeTime.csproj": {}
+    "/Users/kamariross/sdg-hw/CoffeeTime/CoffeeTime.csproj": {}
   },
   "projects": {
-    "/Users/kamariross/CoffeeTime/CoffeeTime.csproj": {
+    "/Users/kamariross/sdg-hw/CoffeeTime/CoffeeTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kamariross/CoffeeTime/CoffeeTime.csproj",
+        "projectUniqueName": "/Users/kamariross/sdg-hw/CoffeeTime/CoffeeTime.csproj",
         "projectName": "CoffeeTime",
-        "projectPath": "/Users/kamariross/CoffeeTime/CoffeeTime.csproj",
+        "projectPath": "/Users/kamariross/sdg-hw/CoffeeTime/CoffeeTime.csproj",
         "packagesPath": "/Users/kamariross/.nuget/packages/",
-        "outputPath": "/Users/kamariross/CoffeeTime/obj/",
+        "outputPath": "/Users/kamariross/sdg-hw/CoffeeTime/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kamariross/.nuget/NuGet/NuGet.Config"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }
